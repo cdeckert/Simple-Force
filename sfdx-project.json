@@ -1,0 +1,22 @@
+{
+    "packageDirectories": [
+        {
+            "path": "force-app",
+            "default": false
+        },
+        {
+            "path": "ulog",
+            "package": "ulog",
+            "versionName": "ver 0.1",
+            "versionNumber": "0.1.0.NEXT",
+            "default": true
+        }
+    ],
+    "namespace": "simpleforce",
+    "sfdcLoginUrl": "https://login.salesforce.com",
+    "sourceApiVersion": "44.0",
+    "packageAliases": {
+        "ulog": "0Ho1t000000XZGtCAO",
+        "ulog@0.1.0-1": "04t1t000001yUV2AAM"
+    }
+}

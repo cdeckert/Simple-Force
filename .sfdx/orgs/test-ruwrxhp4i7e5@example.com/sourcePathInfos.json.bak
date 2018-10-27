@@ -1,0 +1,552 @@
+[
+    [
+        "/Users/christiandeckert/Documents/projects/simple-force/force-app",
+        {
+            "sourcePath": "/Users/christiandeckert/Documents/projects/simple-force/force-app",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1540661360000,
+            "changeTime": 1540659610247,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/christiandeckert/Documents/projects/simple-force/force-app/main",
+        {
+            "sourcePath": "/Users/christiandeckert/Documents/projects/simple-force/force-app/main",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1540661360000,
+            "changeTime": 1540659610249,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/christiandeckert/Documents/projects/simple-force/force-app/main/default",
+        {
+            "sourcePath": "/Users/christiandeckert/Documents/projects/simple-force/force-app/main/default",
+            "isDirectory": true,
+            "size": 128,
+            "modifiedTime": 1540661360000,
+            "changeTime": 1540661360720,
+            "contentHash": "8cb74eb324f735bd16f2bf66109ef3edb47deca9",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/christiandeckert/Documents/projects/simple-force/force-app/main/default/aura",
+        {
+            "sourcePath": "/Users/christiandeckert/Documents/projects/simple-force/force-app/main/default/aura",
+            "isDirectory": true,
+            "size": 64,
+            "modifiedTime": 1540659610000,
+            "changeTime": 1540659610252,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/christiandeckert/Documents/projects/simple-force/ulog",
+        {
+            "sourcePath": "/Users/christiandeckert/Documents/projects/simple-force/ulog",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1540663333000,
+            "changeTime": 1540661442801,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/christiandeckert/Documents/projects/simple-force",
+        {
+            "sourcePath": "/Users/christiandeckert/Documents/projects/simple-force",
+            "isDirectory": true,
+            "size": 288,
+            "modifiedTime": 1540663339000,
+            "changeTime": 1540660260380,
+            "contentHash": "9d9096ee29f773106f1c4fb74d1ad2cec2eb409c",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/christiandeckert/Documents/projects/simple-force/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
+        {
+            "sourcePath": "/Users/christiandeckert/Documents/projects/simple-force/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "size": 5593,
+            "modifiedTime": 1540660923189,
+            "changeTime": 1540660923189,
+            "contentHash": "a8554d13d74c1cf3f8aa3a6ece458b067bb1cfe3",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/christiandeckert/Documents/projects/simple-force/force-app/main/default/profiles/Admin.profile-meta.xml",
+        {
+            "sourcePath": "/Users/christiandeckert/Documents/projects/simple-force/force-app/main/default/profiles/Admin.profile-meta.xml",
+            "isDirectory": false,
+            "size": 19456,
+            "modifiedTime": 1540661355145,
+            "changeTime": 1540661355145,
+            "contentHash": "aa4b0b34896854c9b33d08e0f50ce287977b8e61",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/christiandeckert/Documents/projects/simple-force/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "sourcePath": "/Users/christiandeckert/Documents/projects/simple-force/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "size": 5255,
+            "modifiedTime": 1540660923225,
+            "changeTime": 1540660923225,
+            "contentHash": "68f155958cb7b0883fc2e8c693ca3149b77d5b7b",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/christiandeckert/Documents/projects/simple-force/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "sourcePath": "/Users/christiandeckert/Documents/projects/simple-force/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "size": 5255,
+            "modifiedTime": 1540660923234,
+            "changeTime": 1540660923234,
+            "contentHash": "68f155958cb7b0883fc2e8c693ca3149b77d5b7b",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/christiandeckert/Documents/projects/simple-force/force-app/main/default/profiles",
+        {
+            "sourcePath": "/Users/christiandeckert/Documents/projects/simple-force/force-app/main/default/profiles",
+            "isDirectory": true,
+            "size": 192,
+            "modifiedTime": 1540661360000,
+            "changeTime": 1540660619833,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/christiandeckert/Documents/projects/simple-force/ulog/main/default/objects/Exception__e/Exception__e.object-meta.xml",
+        {
+            "sourcePath": "/Users/christiandeckert/Documents/projects/simple-force/ulog/main/default/objects/Exception__e/Exception__e.object-meta.xml",
+            "isDirectory": false,
+            "size": 281,
+            "modifiedTime": 1540661355097,
+            "changeTime": 1540661355104,
+            "contentHash": "f4c82446061ac79184ea7e5f4695c6a0220fe014",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/christiandeckert/Documents/projects/simple-force/ulog/main/default/objects/Exception__e",
+        {
+            "sourcePath": "/Users/christiandeckert/Documents/projects/simple-force/ulog/main/default/objects/Exception__e",
+            "isDirectory": true,
+            "size": 128,
+            "modifiedTime": 1540661872000,
+            "changeTime": 1540661442807,
+            "contentHash": "0678b93187d119e360b8d0fd9978dd4084f0e29c",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/christiandeckert/Documents/projects/simple-force/ulog/main/default/objects",
+        {
+            "sourcePath": "/Users/christiandeckert/Documents/projects/simple-force/ulog/main/default/objects",
+            "isDirectory": true,
+            "size": 128,
+            "modifiedTime": 1540661872000,
+            "changeTime": 1540661452803,
+            "contentHash": "b3bce19304b952d9465ffad8eb13d16ec4f7fa88",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/christiandeckert/Documents/projects/simple-force/ulog/main/default",
+        {
+            "sourcePath": "/Users/christiandeckert/Documents/projects/simple-force/ulog/main/default",
+            "isDirectory": true,
+            "size": 192,
+            "modifiedTime": 1540663333000,
+            "changeTime": 1540663202715,
+            "contentHash": "7d091094a611c134793a5390b2bbf30cdce21e04",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/christiandeckert/Documents/projects/simple-force/ulog/main",
+        {
+            "sourcePath": "/Users/christiandeckert/Documents/projects/simple-force/ulog/main",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1540663333000,
+            "changeTime": 1540661460586,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/christiandeckert/Documents/projects/simple-force/ulog/main/default/layouts",
+        {
+            "sourcePath": "/Users/christiandeckert/Documents/projects/simple-force/ulog/main/default/layouts",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1540661459000,
+            "changeTime": 1540661459975,
+            "contentHash": "8ca8fe5ecee32ecc7b777f1cbcd3188c9432096a",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/christiandeckert/Documents/projects/simple-force/ulog/main/default/layouts/ULog__c-ULog Layout.layout-meta.xml",
+        {
+            "sourcePath": "/Users/christiandeckert/Documents/projects/simple-force/ulog/main/default/layouts/ULog__c-ULog Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 2782,
+            "modifiedTime": 1540660923181,
+            "changeTime": 1540660923682,
+            "contentHash": "837b6878d96a226a2c057c4c04dde46fb341718e",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/christiandeckert/Documents/projects/simple-force/ulog/main/default/objects/Exception__e/fields",
+        {
+            "sourcePath": "/Users/christiandeckert/Documents/projects/simple-force/ulog/main/default/objects/Exception__e/fields",
+            "isDirectory": true,
+            "size": 256,
+            "modifiedTime": 1540661872000,
+            "changeTime": 1540661442809,
+            "contentHash": "c5f5d65acbdc9987d9db3e4e1efbf7d62424d9db",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/christiandeckert/Documents/projects/simple-force/ulog/main/default/objects/Exception__e/fields/Cause__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/christiandeckert/Documents/projects/simple-force/ulog/main/default/objects/Exception__e/fields/Cause__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 356,
+            "modifiedTime": 1540661867503,
+            "changeTime": 1540661867514,
+            "contentHash": "271cb5f9c37b1dbe17c665373d62a547e48a7e2b",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false
+        }
+    ],
+    [
+        "/Users/christiandeckert/Documents/projects/simple-force/ulog/main/default/objects/Exception__e/fields/Exception__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/christiandeckert/Documents/projects/simple-force/ulog/main/default/objects/Exception__e/fields/Exception__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 351,
+            "modifiedTime": 1540661867505,
+            "changeTime": 1540661867521,
+            "contentHash": "e64c5da0aeea2ab95c92a9f0ccec988861d1f7ec",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false
+        }
+    ],
+    [
+        "/Users/christiandeckert/Documents/projects/simple-force/ulog/main/default/objects/Exception__e/fields/LineNumber__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/christiandeckert/Documents/projects/simple-force/ulog/main/default/objects/Exception__e/fields/LineNumber__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 394,
+            "modifiedTime": 1540661867506,
+            "changeTime": 1540661867525,
+            "contentHash": "9f3b19b32ccd8d7f4b8eed0f7356e218804092a8",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false
+        }
+    ],
+    [
+        "/Users/christiandeckert/Documents/projects/simple-force/ulog/main/default/objects/Exception__e/fields/Message__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/christiandeckert/Documents/projects/simple-force/ulog/main/default/objects/Exception__e/fields/Message__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 361,
+            "modifiedTime": 1540661867507,
+            "changeTime": 1540661867529,
+            "contentHash": "11ff57391d64680b5a54a123bbb60dcd215e75d6",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false
+        }
+    ],
+    [
+        "/Users/christiandeckert/Documents/projects/simple-force/ulog/main/default/objects/Exception__e/fields/StackTraceString__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/christiandeckert/Documents/projects/simple-force/ulog/main/default/objects/Exception__e/fields/StackTraceString__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 366,
+            "modifiedTime": 1540661867508,
+            "changeTime": 1540661867533,
+            "contentHash": "eebd85783cfb17ef50b8c0ac6c72ba263e7eecb0",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false
+        }
+    ],
+    [
+        "/Users/christiandeckert/Documents/projects/simple-force/ulog/main/default/objects/Exception__e/fields/TypeName__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/christiandeckert/Documents/projects/simple-force/ulog/main/default/objects/Exception__e/fields/TypeName__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 363,
+            "modifiedTime": 1540661867509,
+            "changeTime": 1540661867537,
+            "contentHash": "a5174ec44c11c8495117ea961046e748268bb116",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false
+        }
+    ],
+    [
+        "/Users/christiandeckert/Documents/projects/simple-force/ulog/main/default/objects/ULog__c",
+        {
+            "sourcePath": "/Users/christiandeckert/Documents/projects/simple-force/ulog/main/default/objects/ULog__c",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1540661754000,
+            "changeTime": 1540661452804,
+            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/christiandeckert/Documents/projects/simple-force/ulog/main/default/objects/ULog__c/fields",
+        {
+            "sourcePath": "/Users/christiandeckert/Documents/projects/simple-force/ulog/main/default/objects/ULog__c/fields",
+            "isDirectory": true,
+            "size": 256,
+            "modifiedTime": 1540661754000,
+            "changeTime": 1540660930092,
+            "contentHash": "c5f5d65acbdc9987d9db3e4e1efbf7d62424d9db",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/christiandeckert/Documents/projects/simple-force/ulog/main/default/objects/ULog__c/fields/Cause__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/christiandeckert/Documents/projects/simple-force/ulog/main/default/objects/ULog__c/fields/Cause__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 356,
+            "modifiedTime": 1540661734870,
+            "changeTime": 1540660923655,
+            "contentHash": "271cb5f9c37b1dbe17c665373d62a547e48a7e2b",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/christiandeckert/Documents/projects/simple-force/ulog/main/default/objects/ULog__c/fields/Exception__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/christiandeckert/Documents/projects/simple-force/ulog/main/default/objects/ULog__c/fields/Exception__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 351,
+            "modifiedTime": 1540661738131,
+            "changeTime": 1540660923659,
+            "contentHash": "e64c5da0aeea2ab95c92a9f0ccec988861d1f7ec",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/christiandeckert/Documents/projects/simple-force/ulog/main/default/objects/ULog__c/fields/LineNumber__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/christiandeckert/Documents/projects/simple-force/ulog/main/default/objects/ULog__c/fields/LineNumber__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 394,
+            "modifiedTime": 1540661740981,
+            "changeTime": 1540660923664,
+            "contentHash": "9f3b19b32ccd8d7f4b8eed0f7356e218804092a8",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/christiandeckert/Documents/projects/simple-force/ulog/main/default/objects/ULog__c/fields/Message__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/christiandeckert/Documents/projects/simple-force/ulog/main/default/objects/ULog__c/fields/Message__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 361,
+            "modifiedTime": 1540661744438,
+            "changeTime": 1540661744438,
+            "contentHash": "11ff57391d64680b5a54a123bbb60dcd215e75d6",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false
+        }
+    ],
+    [
+        "/Users/christiandeckert/Documents/projects/simple-force/ulog/main/default/objects/ULog__c/fields/StackTraceString__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/christiandeckert/Documents/projects/simple-force/ulog/main/default/objects/ULog__c/fields/StackTraceString__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 366,
+            "modifiedTime": 1540661746989,
+            "changeTime": 1540661746989,
+            "contentHash": "eebd85783cfb17ef50b8c0ac6c72ba263e7eecb0",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false
+        }
+    ],
+    [
+        "/Users/christiandeckert/Documents/projects/simple-force/ulog/main/default/objects/ULog__c/fields/TypeName__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/christiandeckert/Documents/projects/simple-force/ulog/main/default/objects/ULog__c/fields/TypeName__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 363,
+            "modifiedTime": 1540661748907,
+            "changeTime": 1540661748907,
+            "contentHash": "a5174ec44c11c8495117ea961046e748268bb116",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false
+        }
+    ],
+    [
+        "/Users/christiandeckert/Documents/projects/simple-force/ulog/main/default/triggers/ExceptionTrigger.trigger-meta.xml",
+        {
+            "sourcePath": "/Users/christiandeckert/Documents/projects/simple-force/ulog/main/default/triggers/ExceptionTrigger.trigger-meta.xml",
+            "isDirectory": false,
+            "size": 178,
+            "modifiedTime": 1540662508127,
+            "changeTime": 1540662508127,
+            "contentHash": "12d084f642d1a7ac8faa5952932bd3dba75c8c9d",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/christiandeckert/Documents/projects/simple-force/ulog/main/default/triggers/ExceptionTrigger.trigger",
+        {
+            "sourcePath": "/Users/christiandeckert/Documents/projects/simple-force/ulog/main/default/triggers/ExceptionTrigger.trigger",
+            "isDirectory": false,
+            "size": 450,
+            "modifiedTime": 1540662508129,
+            "changeTime": 1540662508129,
+            "contentHash": "6cf6fb785a8cd979c656d0b746a7e7694850c1bf",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/christiandeckert/Documents/projects/simple-force/ulog/main/default/triggers",
+        {
+            "sourcePath": "/Users/christiandeckert/Documents/projects/simple-force/ulog/main/default/triggers",
+            "isDirectory": true,
+            "size": 128,
+            "modifiedTime": 1540662513000,
+            "changeTime": 1540662508129,
+            "contentHash": "2793e9591e299406964d971a22e52340075f15bb",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/christiandeckert/Documents/projects/simple-force/ulog/main/default/classes",
+        {
+            "sourcePath": "/Users/christiandeckert/Documents/projects/simple-force/ulog/main/default/classes",
+            "isDirectory": true,
+            "size": 128,
+            "modifiedTime": 1540663333000,
+            "changeTime": 1540663202717,
+            "contentHash": "7dd74b25aabb0b0d4f171d38dbafd680ee76d26c",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/christiandeckert/Documents/projects/simple-force/ulog/main/default/classes/ULog.cls",
+        {
+            "state": "u",
+            "sourcePath": "/Users/christiandeckert/Documents/projects/simple-force/ulog/main/default/classes/ULog.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 446,
+            "modifiedTime": 1540663473373,
+            "changeTime": 1540663473373,
+            "contentHash": "f936698c0b6bf2f2b3b6cd51e5002d70bf6ea505"
+        }
+    ],
+    [
+        "/Users/christiandeckert/Documents/projects/simple-force/ulog/main/default/classes/ULog.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/christiandeckert/Documents/projects/simple-force/ulog/main/default/classes/ULog.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1540663473371,
+            "changeTime": 1540663473371,
+            "contentHash": "acdd80366dfee192a19331bfa686b269d836d68a"
+        }
+    ]
+]
